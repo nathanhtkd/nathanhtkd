@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanhtkd
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning data and structures
+- 🌱 I’m currently learning data structures and algorithms
 - 📫 How to reach me ...
 
 <!---
