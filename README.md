@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanhtkd
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning computer systems
+- 👀 I’m interested in learning Blockchain and Cloud Computing
+- 🌱 I’m currently learning Operating Systems
 
 <!---
 nathanhtkd/nathanhtkd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
